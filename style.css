@@ -64,10 +64,11 @@ h1{
     padding-right: 15px;
     background-color: rgb(221, 217, 217);
 }
-.unlimit{
-    background-image: url(images/dream-bg.png);
+#unlimit{
+    background-image: url(images/shape-1.png);
     background-repeat: no-repeat;
-    background-position: left;
+    background-position: 220px 150px;
+    background-size: 150px;
 }
 .no-limit{
     width: 40%;
@@ -91,9 +92,26 @@ h1{
 }
 .target-to-know{
     width: 50%;
-    margin-top: 10%;
+    margin-top: 5%;
     padding-left: 7%;
 }
 .target-to-know img{
     width: 50%;
+}
+#add-bg{
+    background-image: url(images/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: 320px 180px;
+    background-size: 150px;
+}
+.text-color{
+    color: red;
+}
+footer p{
+    text-align: center;
+}
+.bg-color{
+    background-color: black;
+    color: white;
+    margin-top: 5%;
 }
