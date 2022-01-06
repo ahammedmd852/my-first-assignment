@@ -104,6 +104,31 @@ h1{
     background-position: 320px 180px;
     background-size: 150px;
 }
+.population{
+    color: yellow;
+}
+.color{
+    color: hotpink;
+}
+.read-problems{
+    text-decoration: none;
+    background-image: linear-gradient(black, hotpink);
+    color: white;
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 5%; 
+}
+.bd-poblem{
+    display: flex;
+}
+.popolation-problem{
+    width: 50%;
+    margin-top: 3%;
+    padding-left: 5%;
+}
+.popolation-problem{
+    width: 50%;
+}
 .text-color{
     color: red;
 }
@@ -113,5 +138,5 @@ footer p{
 .bg-color{
     background-color: black;
     color: white;
-    margin-top: 5%;
+    margin-top: 5%;    
 }
