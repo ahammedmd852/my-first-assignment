@@ -1,0 +1,30 @@
+body{
+    font-family: 'Libre Baskerville', serif;
+}
+h1{
+    font-size: 40px;
+}
+.left-border{
+    border-left: 5px solid;
+}
+.red-color{
+    color: red;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+   padding-left: 3%;
+}
+.half-width img{
+    width: 100%;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(black, hotpink);
+    color: white;
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 5%;
+}
