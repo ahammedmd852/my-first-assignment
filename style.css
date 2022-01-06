@@ -18,7 +18,7 @@ section{
    padding-left: 3%;
 }
 .half-width img{
-    width: 100%;
+    width: 80%;
 }
 .button{
     text-decoration: none;
@@ -27,4 +27,40 @@ section{
     font-weight: 700;
     padding: 10px 40px;
     border-radius: 5%;
+}
+h1{
+    text-align: center;
+}
+.green-color{
+    color: green;
+}
+.margin-top{
+    margin-top: 5%;
+}
+.illastrator{
+    width: 35%;
+}
+.my-mission{
+    width: 25%;
+    border-radius: 5%;
+    margin-left: 5%;
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: rgb(203, 216, 203);
+}
+.my-vission{
+    width: 25%;
+    border-radius: 5%;
+    margin-left: 5%;
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: rgb(108, 114, 108);
+}
+.my-goals{
+    width: 25%;
+    border-radius: 5%;
+    margin-left: 5%;
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: rgb(221, 217, 217);
 }
