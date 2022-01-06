@@ -64,3 +64,36 @@ h1{
     padding-right: 15px;
     background-color: rgb(221, 217, 217);
 }
+.unlimit{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.no-limit{
+    width: 40%;
+    margin-top: 5%;
+    padding-left: 5%;
+}
+.no-limit img{
+    width: 60%;
+    padding-left: 40%;
+}
+.read-doc{
+    text-decoration: none;
+    background-image: linear-gradient(black, hotpink);
+    color: white;
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 5%; 
+}
+.know-global{
+    display: flex;
+}
+.target-to-know{
+    width: 50%;
+    margin-top: 10%;
+    padding-left: 7%;
+}
+.target-to-know img{
+    width: 50%;
+}
